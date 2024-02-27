@@ -1,1 +1,1 @@
-# typescript-Assignments-1-personal-message
+# typescript-Assignments-2-personal-message
